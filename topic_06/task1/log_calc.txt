@@ -1,0 +1,8 @@
+13.0 + 2.0 = 15.0
+132.0 & "C:/Users/Mix Comp/AppData/Local/Programs/Python/Python314/python.exe" c:/WorkFolder/TP-KB-242-Kiril-Zubrii/topic_06/task1/Calc.py 46.0 = Помилка: Невідома операція!
+12.0 ex 546.0 = Помилка: Невідома операція!
+15.0 exit 134.0 = exit
+213.0 exit 123.0 = exit
+123.0 + 123.0 = 246.0
+13.0 exit 13.0 = exit
+123.0 * 2.0 = 246.0
